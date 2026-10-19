@@ -1,8 +1,7 @@
-## Hi there 👋
+## wait till i learn markdown and i'll show you my readme 👋
 
 <!--
 **JKevin08/JKevin08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
